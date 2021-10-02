@@ -41,3 +41,4 @@ function nasa() {
        console.log(`error ${err}`);
      });
   }
+// this was started by me and finished with some assistance from a mentor because I had a 400 web browser issue. 
