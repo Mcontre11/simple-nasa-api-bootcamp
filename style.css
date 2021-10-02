@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+body{
+  background: rgb(206,63,251);
+  background: radial-gradient(circle, rgba(206,63,251,1) 0%, rgba(70,252,126,1) 100%);
+  text-align: center;
+  }
+
+.hide{
+  display: none;
+}
